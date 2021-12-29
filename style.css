@@ -19,12 +19,16 @@
     align-items: center;
     padding-left: 3%;
     padding-right: 3%;
-    padding-top: 2%;
-    padding-bottom: 1%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.descFooter{
+    color: gray;
 }
 
 .footer{
-    background-color: orangered;
+    background-color: black;
     padding-top: 3%;
     padding-bottom: 3%;
     text-align: center;
@@ -85,7 +89,7 @@ ul{
     padding-bottom: 20px;
     text-transform: uppercase;
     font-weight: 700;
-    color: orangered;
+    color: black;
 }
 
 .card-style{
