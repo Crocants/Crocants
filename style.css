@@ -1,0 +1,76 @@
+.foto-perfil {
+    border: 5px solid rgb(255, 255, 255);
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.corPrimaria {
+    background-color: orangered;
+}
+
+.corSecundaria {
+    background-color: gray;
+}
+
+.secaoPrimaria{
+    background-color: orangered;
+    align-items: center;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black !important;
+}
+
+.textoPegaPOha {
+    padding-top: 3px;
+    text-align: center;
+    color: white;
+    font-family: "Open Sans Condesed", sans-serif;
+}
+
+.bordaBotao{
+    border-color: #ffffff;
+    border-radius: 1px;
+}
+
+.icones {
+    padding-left: 5px;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.titulosVerdes {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: green;
+}
+
+.botoes{
+    margin: 0 15px;
+    align-items: center;
+}
+
+.flex-box {
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
